@@ -6,12 +6,12 @@ version = "7.4.8"
 path = ""
 
 [dependencies.jemalloc]
-git = "ssh://redislabsdev/rs-devcontainer"
+git = "ssh://github.com/redislabsdev/rs-devcontainer"
 branch = "build-cargo"
 package = "jemalloc"
 # version = "5.3.0"
 
 [dependencies.sharding]
-git = "ssh://redislabsdev/rs-devcontainer"
+git = "ssh://github.com/redislabsdev/rs-devcontainer"
 branch = "build-cargo"
 package = "sharding"
