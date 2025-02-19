@@ -8,10 +8,10 @@ path = ""
 [dependencies.jemalloc]
 git = "ssh://redislabsdev/rs-devcontainer"
 branch = "build-cargo"
-package = "components/jemalloc"
+package = "jemalloc"
 # version = "5.3.0"
 
 [dependencies.sharding]
 git = "ssh://redislabsdev/rs-devcontainer"
 branch = "build-cargo"
-package = "components/sharding"
+package = "sharding"
